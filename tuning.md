@@ -165,19 +165,6 @@ Where:
 
 ---
 
-## Summary Table
-
-| Method | Model Needed | Complexity | Accuracy | Ideal Use |
-|--------|--------------|------------|----------|------------|
-| Manual | ❌ | Low | Low–Medium | Quick tests |
-| Ziegler–Nichols | ❌ | Medium | Medium | General systems |
-| Cohen–Coon | ❌ | Medium | Medium | Slow FOPDT systems |
-| Relay Feedback | ❌ | Medium | Medium–High | Safe, automatic tuning |
-| Auto-tune | ❌ | Low | Medium–High | Software-driven systems |
-| IMC | ✅ | High | High | Accurate model systems |
-| AI-Based | ❌ | High | Very High | Nonlinear/complex processes |
-| Gain Scheduling | ✅/❌ | Medium | High | Multi-regime systems |
-
 ---
 
 ## Conclusion
